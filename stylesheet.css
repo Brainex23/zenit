@@ -1,0 +1,117 @@
+.body{
+    margin: 0;
+    width: 100%;
+    
+}
+
+html{
+    position:relative
+}
+
+.Fhead{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    align-items: center;
+    
+}
+
+.Fhead .F1{
+    display: flex;
+}
+
+.Fhead .F2{
+    display: flex;
+    margin-left: 350px;
+}
+
+.fimg{
+    overflow: hidden;
+    height: 450px;
+    width: 1349px;
+
+}
+.Thead{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    
+}
+
+
+.Thead .T1{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    
+    
+}
+
+.Thead .T2{
+    display: flex;
+    align-items: center;
+}
+
+.Thead .T2 .img{
+    width: 50px;
+    
+}
+.Thead .T2 input{
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+}
+
+.Fmain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: small;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+
+
+.Fmain .Fimg img{
+      width: 70px;
+      padding-left: 28px;
+      padding-bottom: 10px;
+}
+
+.Smain .imf{
+    background-image: url('https://www.zenithbank.com/media/3189/homepage-girl.jpg?anchor=center&mode=crop&width=1600&rnd=132452431820000000');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+}
+
+.vivid{
+    height: 400px;
+    width: 1349px;
+    border-bottom: 4px solid red;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.f1 .m2 .n1 .diviv .vid {
+    height: 150px;
+    width:250px;
+    overflow: hidden;
+    border: 2px solid black ;
+    
+}
+
+.f1 .m2 .n1 .diviv{
+    margin-left: 30px;
+}
+
+.f1 .m2 .ili .iii{
+    margin-left: -1180px;
+    align-items: center;
+}
+
+
